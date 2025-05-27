@@ -1,0 +1,28 @@
+{
+  "name": "expressjs-mongodb-tasklist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinderahul/expressjs-mongodb-tasklist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinderahul/expressjs-mongodb-tasklist/issues"
+  },
+  "homepage": "https://github.com/shinderahul/expressjs-mongodb-tasklist#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
